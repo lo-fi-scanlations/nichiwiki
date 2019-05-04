@@ -37,7 +37,7 @@
 ![Обложка первого тома nichijou, изданного Vertical Inc.](sized_vol1_vertical.png)
 ###### [Обложка первого тома nichijou, изданного Vertical Inc.](vol1_vertical.png)
 
-##6-е место на Sugoi Japan Award 2015
+## 6-е место на Sugoi Japan Award 2015
 В декабре 2015 года манга заняла 6-е место на
 [всенародном голосовании Sugoi Japan Award](http://www.crunchyroll.com/anime-news/2015/03/12/sugoi-japan-announces-list-of-anime-manga-and-light-novel-everyone-should-try)
 в котором определялись списки лучших произведений аниме, манга и ранобэ.
