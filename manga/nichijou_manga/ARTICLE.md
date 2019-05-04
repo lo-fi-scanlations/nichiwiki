@@ -18,7 +18,7 @@
 
 ###### [Обложка первого тома nichijou](vol1.png)
 
-##Лицензирование манги компанией Vertical Comics
+## Лицензирование манги компанией Vertical Comics
 В июле 2015 года американская компания Vertical Comics Inc.
 объявила о покупке лицензии на мангу.
 
@@ -34,8 +34,8 @@
 [официальное финское издание](http://animelehti.fi/arvostelut/anime/arki)
 всех 10 томов.
 
-![Обложка первого тома nichijou, изданного Vertical Inc.](vol1_vertical.png)
-######Обложка первого тома nichijou, изданного Vertical Inc.
+![Обложка первого тома nichijou, изданного Vertical Inc.](sized_vol1_vertical.png)
+###### [Обложка первого тома nichijou, изданного Vertical Inc.](vol1_vertical.png)
 
 ##6-е место на Sugoi Japan Award 2015
 В декабре 2015 года манга заняла 6-е место на
