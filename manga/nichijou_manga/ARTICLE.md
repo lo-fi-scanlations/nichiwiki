@@ -1,4 +1,4 @@
-#nichijou (манга)
+# nichijou (манга)
 
 **nichijou (日常, «Повседневность», «Мелочи Жизни») —**
 комедийная манга за авторством Кэйити Араи,
@@ -14,8 +14,9 @@
 В 2011 году произведение получило аниме-экранизацию
 под производством Kyoto Animation. 
 
-![Обложка первого тома nichijou][vol1.png]
-######Обложка первого тома nichijou
+![Обложка первого тома nichijou](vol1.png)
+
+###### Обложка первого тома nichijou
 
 ##Лицензирование манги компанией Vertical Comics
 В июле 2015 года американская компания Vertical Comics Inc.
@@ -33,7 +34,7 @@
 [официальное финское издание](http://animelehti.fi/arvostelut/anime/arki)
 всех 10 томов.
 
-![Обложка первого тома nichijou, изданного Vertical Inc.][vol1_vertical.png]
+![Обложка первого тома nichijou, изданного Vertical Inc.](vol1_vertical.png)
 ######Обложка первого тома nichijou, изданного Vertical Inc.
 
 ##6-е место на Sugoi Japan Award 2015
@@ -41,7 +42,7 @@
 [всенародном голосовании Sugoi Japan Award](http://www.crunchyroll.com/anime-news/2015/03/12/sugoi-japan-announces-list-of-anime-manga-and-light-novel-everyone-should-try)
 в котором определялись списки лучших произведений аниме, манга и ранобэ.
 
-##Где почитать?
+## Где почитать?
 
 * [MangaHub](https://mangahub.ru/nichijou_my_ordinary_life)
 
@@ -49,13 +50,13 @@
 
 * [ReadManga](http://readmanga.me/everyday_life)
 
-##Где купить?
-###Оригинальная японская манга
+## Где купить?
+### Оригинальная японская манга
 
 * [CDJapan](http://www.cdjapan.co.jp/searches?term.media_format=&f=major&q=%E6%97%A5%E5%B8%B8&f=artist&q=Keiichi+Arai&f=major&q=&order=scoreboost_cdj&range.rel=&range.sale_price=&term.caption=&term.audio_language=)
 
 * [Amazon.com](https://www.amazon.com/gp/bookseries/B00R620MEE/ref=dp_st_4041033357)
 
-###Официальное американское издание
+### Официальное американское издание
 
 * [Amazon.com](https://www.amazon.com/gp/bookseries/B01AJ2EFIQ/ref=dp_st_1942993692)
